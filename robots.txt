@@ -114,3 +114,6 @@ Disallow: /
 
 User-agent: TurnitinBot
 Disallow: /
+
+Sitemap: https://mopieapp.pages.dev/feed.xml
+Sitemap: https://mopieapp.pages.dev/sitemap-index.xml
